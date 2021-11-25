@@ -108,7 +108,7 @@
   margin: 0 0 20px;
 }
 
-.input#new-task {
+.input #new-task {
   width: 318px;
 }
 
@@ -137,7 +137,7 @@
   width: 226px;
 }
 
-.task-item >    .text-input {
+.task-item > .text-input {
   width: 226px;
 }
 
@@ -152,7 +152,7 @@
 }
 
 /* Completed */
-.task-list#completed-tasks .label {
+.task-list #completed-tasks .label {
   text-decoration: line-through;
   color: #888;
 }
