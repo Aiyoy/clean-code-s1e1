@@ -75,7 +75,7 @@
 
 /* Heading */
 .task-title,
-#new-task .label {
+.new-task-label {
   color: #333;
   font-weight: 700;
   font-size: 15px;
@@ -103,7 +103,7 @@
 }
 
 /* New Task */
-#new-task .label {
+.new-task-label {
   display: block;
   margin: 0 0 20px;
 }
